@@ -3,3 +3,5 @@
 ##### This is an <h6> Female
   
   *this text will be italic*
+  
+  **this text will be bold**
